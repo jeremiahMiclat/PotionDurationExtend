@@ -1,0 +1,5 @@
+name: PotionExtendDuration
+version: 1.0
+author: jejomic
+main: com.jejomic.potionextendduration.PotionExtendDuration
+api-version: 1.20
